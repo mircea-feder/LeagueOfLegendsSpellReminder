@@ -1,0 +1,20 @@
+.enemy-champion {
+  display: flex;
+  width: fit-content;
+  align-items: flex-start;
+  gap: 0;
+
+  .champion-icon {
+    width: 48px;
+    height: 48px;
+    margin: 0 -10px 0 0;
+    padding: 0;
+  }
+
+  .spells-list {
+    gap: 0;
+    display: flex;
+    list-style: none;
+    margin: 0 0 0 -16px;
+  }
+}

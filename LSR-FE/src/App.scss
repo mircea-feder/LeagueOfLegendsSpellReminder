@@ -1,0 +1,11 @@
+.App {
+}
+
+.enemy-champions-list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+.main-button {
+  width: 100%;
+  font-size: 1em;
+  font-weight: bold;
+  color: white;
+  padding: 4px;
+  background-color: #41b2ff;
+  border-radius: 5px;
+  &:hover {
+    cursor: pointer;
+  }
+}

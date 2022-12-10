@@ -1,0 +1,28 @@
+.summoner-spell {
+  margin: 0;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+
+  .spell-icon {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    &.on-cooldown {
+      filter: brightness(40%);
+    }
+  }
+
+  .spell-cooldown {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 0;
+
+    width: 48px;
+    text-align: center;
+    position: relative;
+    left: -8px;
+    top: -40px;
+  }
+}
