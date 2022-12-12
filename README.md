@@ -1,5 +1,7 @@
 # League of Legends - Spell Reminder
 
+https://user-images.githubusercontent.com/64581539/207162320-84daeb0c-110b-4bf7-88dd-5675632a2cf0.mp4
+
 ### Description ###
 LoL-SR is a desktop application that loads a UI in the top right corner of the screen containing 
 the enemy champions and their summoner spells. A user can click a spell to start a timer. Players 
