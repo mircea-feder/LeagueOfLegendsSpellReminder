@@ -1,6 +1,7 @@
 # League of Legends - Spell Reminder
 
 https://user-images.githubusercontent.com/64581539/207162320-84daeb0c-110b-4bf7-88dd-5675632a2cf0.mp4
+![Screenshot_1](https://user-images.githubusercontent.com/64581539/207162787-3292aaa8-091c-439f-8732-beecb0622f69.png)
 
 ### Description ###
 LoL-SR is a desktop application that loads a UI in the top right corner of the screen containing 
