@@ -13,7 +13,7 @@ based on their available summoner spells.
 The application features automatic event detection. Every 6 seconds, a request is made to the Riot
 API to check for various events, such as **game started** or **game ended**. This allows a user to
 turn on the application and forget about it. The UI will only be displayed if a match is taking 
-place. After the match ended, the UI is hidden until another match starts.\
+place. After the match ended, the UI is hidden until another match starts.
 
 Similary, if an enemy champion has **Unsealed Spellbook**, the application will check every 6 seconds
 if the enemy champion changed summoner spells.
