@@ -7,8 +7,8 @@ https://user-images.githubusercontent.com/64581539/207162320-84daeb0c-110b-4bf7-
 ### Description ###
 LoL-SR is a desktop application that loads a UI in the top right corner of the screen containing 
 the enemy champions and their summoner spells. A user can click a spell to start a timer. Players 
-who use this application can manage their resources better, by knowing how to engaged an enemy 
-based on their available summoner spells.\
+who use this application can manage their resources better, by knowing how to engage an enemy 
+based on their available summoner spells.
 
 The application features automatic event detection. Every 6 seconds, a request is made to the Riot
 API to check for various events, such as **game started** or **game ended**. This allows a user to
