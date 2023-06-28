@@ -18,17 +18,6 @@ place. After the match ended, the UI is hidden until another match starts.
 Similary, if an enemy champion has **Unsealed Spellbook**, the application will check every 6 seconds
 if the enemy champion changed summoner spells.
 
-### Status ###
-
-I will launch the application as soon as Riot will offer me a produuction key, so far they did not 
-respond to any of my emails.
-
-### Long term goal ###
-
-I want friends to be able to create rooms and share information. For example, the midlaner and the 
-adc are connected to a room, if the adc clicks the *Flash* on the enemy adc, that should also be 
-visible for the midlaner.
-
 ### Tech stack ###
 
 &emsp;• **TypeScript**
